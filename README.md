@@ -1,0 +1,1 @@
+1. Generate Springboot application (only web)
